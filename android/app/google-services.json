@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976798302099",
+    "firebase_url": "https://apabad-e925e.firebaseio.com",
+    "project_id": "apabad-e925e",
+    "storage_bucket": "apabad-e925e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976798302099:android:edae1c0278b50799c3f266",
+        "android_client_info": {
+          "package_name": "com.example.saugat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976798302099-a234piouff2o7ko8rpvr8pulmk6p3h2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiZgt4GoMAAMzrOGjzLXEIXVJtVHrlsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976798302099-a234piouff2o7ko8rpvr8pulmk6p3h2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
